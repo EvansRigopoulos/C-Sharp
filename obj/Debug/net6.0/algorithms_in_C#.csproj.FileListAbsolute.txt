@@ -1,0 +1,15 @@
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.csproj.AssemblyReference.cache
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.AssemblyInfoInputs.cache
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.AssemblyInfo.cs
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\evans\algorithms_in_C#\bin\Debug\net6.0\algorithms_in_C#.exe
+C:\Users\evans\algorithms_in_C#\bin\Debug\net6.0\algorithms_in_C#.deps.json
+C:\Users\evans\algorithms_in_C#\bin\Debug\net6.0\algorithms_in_C#.runtimeconfig.json
+C:\Users\evans\algorithms_in_C#\bin\Debug\net6.0\algorithms_in_C#.dll
+C:\Users\evans\algorithms_in_C#\bin\Debug\net6.0\algorithms_in_C#.pdb
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.dll
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\refint\algorithms_in_C#.dll
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.pdb
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\algorithms_in_C#.genruntimeconfig.cache
+C:\Users\evans\algorithms_in_C#\obj\Debug\net6.0\ref\algorithms_in_C#.dll
